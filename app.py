@@ -9,7 +9,7 @@ import time
 app = Flask(__name__)
 
 # API Keys
-SPOONACULAR_API_KEY = "8eb47d07d65547599654a24b2f831018"
+SPOONACULAR_API_KEY = ""
 
 # Temporary storage for saved recipes (in-memory for simplicity)
 saved_recipes = []
